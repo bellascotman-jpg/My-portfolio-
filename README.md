@@ -1,38 +1,58 @@
-# Uche Wisdom — Portfolio
+# Uche Wisdom — AI Product Builder
 
-Professional portfolio for **Uche Wisdom**, an AI Product Builder and Product Validator.
+> **Live portfolio:** **https://bellascotman-jpg.github.io/My-portfolio-/**
 
-## Positioning
+A professional portfolio for **Uche Wisdom**, focused on AI-assisted product building, product validation, web products, SaaS prototypes and practical business workflows.
 
-I build practical web products from real business problems. My work sits across product discovery, product architecture, AI-assisted building, prototyping and validation.
+## View the portfolio
+
+### 🌐 [Open the live portfolio](https://bellascotman-jpg.github.io/My-portfolio-/)
+
+The portfolio presents selected work with direct links to the relevant repositories and builds, while clearly distinguishing implemented products, prototypes and product architecture.
 
 ## Selected work
 
-- **ProductFix / StoreFix AI** — e-commerce storefront auditing SaaS. [Repository](https://github.com/bellascotman-jpg/ProductFix)
-- **FoundAlgo Network** — founder ecosystem web product. [Repository](https://github.com/bellascotman-jpg/foundalgo-web) · [Build](https://foundalgo-network-pl-c60j.bolt.host)
-- **InvoryX** — e-commerce operations intelligence prototype.
-- **Bulo's Beauty Hub** — local-business website prototype/build. [Repository](https://github.com/bellascotman-jpg/automatic-chainsaw)
-- **PageFix AI** — earlier e-commerce audit engineering foundation. [Repository](https://github.com/bellascotman-jpg/Pagefixai)
-- **Zutex Building Materials** — Nigerian catalogue/enquiry website prototype.
+| Project | Type | Status |
+|---|---|---|
+| **ProductFix / StoreFix AI** | E-commerce audit SaaS | Active build |
+| **FoundAlgo Network** | Founder ecosystem web product | Built & iterated |
+| **InvoryX** | E-commerce operations intelligence | Prototype |
+| **PageFix AI** | E-commerce audit engineering foundation | Engineering foundation |
+| **Bulo's Beauty Hub** | Local-business website | Built |
+| **Zutex Building Materials** | Catalogue / enquiry website | Prototype |
 
-## Portfolio principles
+## What I work across
 
-The portfolio intentionally distinguishes between:
+- Product discovery and problem framing
+- Product requirements and feature definition
+- AI-assisted product building
+- Web product and SaaS prototyping
+- User flows, dashboards and information architecture
+- Product validation and implementation review
+- GitHub-based development workflows
+- React / Next.js / TypeScript project workflows
+- Supabase-backed application concepts
+- Local-business web experiences and conversion flows
 
-- implemented functionality;
-- prototypes and product architecture;
-- planned integrations or future functionality.
+## Project links
 
-It does not claim production-scale AI, product-market fit, or technical expertise that has not been demonstrated.
+- [ProductFix](https://github.com/bellascotman-jpg/ProductFix)
+- [FoundAlgo Network](https://github.com/bellascotman-jpg/foundalgo-web) · [Live build](https://foundalgo-network-pl-c60j.bolt.host)
+- [PageFix AI](https://github.com/bellascotman-jpg/Pagefixai)
+- [Bulo's Beauty Hub](https://github.com/bellascotman-jpg/automatic-chainsaw)
 
-## Stack / tools
+## Portfolio standard
 
-GitHub · Next.js / React project workflows · TypeScript · Supabase · Vercel workflows · Bolt / no-code and low-code product building · AI-assisted development
+I deliberately separate **implemented functionality**, **prototype work**, and **planned/future functionality**. I do not present a prototype as a production system or claim product-market fit, production-scale AI, or technical expertise that I have not demonstrated.
 
 ## Education
 
-University of Port Harcourt — Mathematics & Statistics
+**University of Port Harcourt** — Mathematics & Statistics
 
-## Local preview
+## Run locally
 
-Open `index.html` in a browser. The site is a static HTML/CSS/JS portfolio and can be hosted with GitHub Pages or another static host.
+Open `index.html` in a browser, or serve the repository with any static web server.
+
+---
+
+**Uche Wisdom · AI Product Builder · Nigeria**
