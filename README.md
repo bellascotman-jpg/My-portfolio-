@@ -1,14 +1,16 @@
 # Uche Wisdom — AI Product Builder
 
-> **Live portfolio:** **https://bellascotman-jpg.github.io/My-portfolio-/**
+> **Live portfolio:** https://bellascotman-jpg.github.io/My-portfolio-/
 
 A professional portfolio for **Uche Wisdom**, focused on AI-assisted product building, product validation, web products, SaaS prototypes and practical business workflows.
 
-## View the portfolio
+## Live website
 
-### 🌐 [Open the live portfolio](https://bellascotman-jpg.github.io/My-portfolio-/)
+**[Open Uche Wisdom's portfolio →](https://bellascotman-jpg.github.io/My-portfolio-/)**
 
-The portfolio presents selected work with direct links to the relevant repositories and builds, while clearly distinguishing implemented products, prototypes and product architecture.
+This repository is configured for **GitHub Pages** using GitHub Actions. The site is a static HTML/CSS/JavaScript portfolio published from the repository.
+
+> **Note:** GitHub Pages project sites use the `github.io` domain. The correct professional URL for this repository is `bellascotman-jpg.github.io/My-portfolio-/` — not a separate “GitHubHost.com” address.
 
 ## Selected work
 
@@ -48,10 +50,6 @@ I deliberately separate **implemented functionality**, **prototype work**, and *
 ## Education
 
 **University of Port Harcourt** — Mathematics & Statistics
-
-## Run locally
-
-Open `index.html` in a browser, or serve the repository with any static web server.
 
 ---
 
