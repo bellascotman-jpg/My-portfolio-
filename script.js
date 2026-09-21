@@ -1,0 +1,1 @@
+const line=document.getElementById('scrollLine');const year=document.getElementById('year');const update=()=>{const root=document.documentElement;const max=root.scrollHeight-root.clientHeight;line.style.width=max?`${root.scrollTop/max*100}%`:'0%'};window.addEventListener('scroll',update,{passive:true});update();if(year)year.textContent=new Date().getFullYear();
